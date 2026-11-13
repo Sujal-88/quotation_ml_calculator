@@ -1,0 +1,18 @@
+# Real client data and credentials: never commit
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+# Model exports and detailed predictions may reflect private data
+artifacts/*
+!artifacts/.gitkeep
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/

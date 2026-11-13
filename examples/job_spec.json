@@ -1,0 +1,21 @@
+{
+  "total_quantity": 3200,
+  "sheets_qty": 3200,
+  "gsm": 250,
+  "sheet_size": "23x36",
+  "printing_type": "Front & Back",
+  "binding": "Perfect Binding",
+  "has_lamination": 1,
+  "num_lamination_types": 1,
+  "has_gloss": 0,
+  "has_matte": 1,
+  "paper_type": "Art Paper",
+  "paper_supplied_by": "Company",
+  "paper_purchase_from": "Vendor",
+  "num_paper_entries": 1,
+  "ctp_supplied_by": "Company",
+  "ctp_sets": 2,
+  "job_type": "Multi Page",
+  "job_size": "23x36",
+  "print_side": "FB"
+}
